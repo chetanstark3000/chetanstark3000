@@ -52,9 +52,8 @@ A project that uses machine learning models to predict News, Fake or real data.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetanstark3000/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetanstark3000)
-[![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chetanstark3000.github.io)
+[![LinkedIn](linkedin.com/in/chetan-shakya-212763291)
+[![Personal Website](https://bold.pro/my/chetan-ai-250207145049)
 
 
 **Thank you for visiting my profile! Feel free to check out my repositories and connect with me. Let's create something amazing together!**
