@@ -38,7 +38,7 @@ I am a passionate AI/ML enthusiast with a strong Artificial Intelligence and Mac
 ### [Project 1: Text-Emotion-Classifier]
 Text-Emotion-Classifier built with NLP techniques.
 
-![AI-Based Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=chetanstark3000&repo=ai-chatbot&theme=radical)
+![Text-Emotion-Classifier](https://github.com/chetanstark3000/Text-Emotion-Classifier)
 
 ### [Project 2: Text-to-image-app]
 A deep learning project for classifying images using convolutional neural networks.
@@ -48,7 +48,7 @@ A deep learning project for classifying images using convolutional neural networ
 ### [Project 3: Fake_News_Pridiction]
 A project that uses machine learning models to predict News, Fake or real data.
 
-!Fake_News_Pridiction](https://github.com/chetanstark3000/Fake_News_Pridiction)
+![Fake_News_Pridiction](https://github.com/chetanstark3000/Fake_News_Pridiction)
 
 ## 📫 Connect with Me
 
