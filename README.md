@@ -1,4 +1,4 @@
-# Hi there, I'm Chetan Stark 👋
+# Hi there, I'm Chetan Shakya 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chetanstark3000&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/chetanstark3000?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/chetanstark3000?label=Stars&style=social)
 
